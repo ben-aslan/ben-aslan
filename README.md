@@ -7,9 +7,9 @@
   </samp>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taha-Hasemi&show_icons=true&theme=radical"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=ben-aslan&show_icons=true&theme=radical"></img>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Hasemi&layout=compact&theme=radical"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-aslan&layout=compact&theme=radical"></img>
   <br>
   <b>My most using technologies</b>
   <br>
@@ -44,7 +44,7 @@
   <br>
    <b>Socials</b>
   <br>
-  <a href="mailto:mrtahahasemi@gmail.com" target="_blank"><img 
+  <a href="mailto:benkizilaslan@gmail.com" target="_blank"><img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!--<a href="https://www.linkedin.com/in/omansak/" target="_blank"><img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -61,6 +61,6 @@
 </P>
 
 <!---
-Taha-Hasemi/Taha-Hasemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ben-aslan/ben-aslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
